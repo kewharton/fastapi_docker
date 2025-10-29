@@ -1,3 +1,7 @@
+MY REAL README IS IN THE NEXT FOLDER WITH ALL OF THE OTHER STUFF
+
+
+
 # Data Science Tutorials
 > If you're coming from one of my data science tutorials, you'll find the code and the links to the tutorials here.
 I hope you find them helpful. Happy learning and coding!
